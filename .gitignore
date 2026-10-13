@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python junk
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets: never commit your API key
+.env
+
+# Your documents and the index built from them
+data/
+chroma_db/
+*.pdf
+!samples/*.pdf
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

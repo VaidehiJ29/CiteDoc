@@ -1,0 +1,8 @@
+[
+  {"q": "What is a Hidden Markov Model?", "type": "answer", "keywords": ["hidden states"]},
+  {"q": "What is an LSTM?", "type": "unanswerable"},
+  {"q": "What does a Gaussian Mixture Model do?", "type": "answer", "keywords": ["Expectation-Maximization", "soft clustering"]},
+  {"q": "What is the capital of France?", "type": "unanswerable"},
+  {"q": "What kinds of autoencoders are there?", "type": "answer", "keywords": ["denoising", "sparse"]},
+  {"q": "What is a transformer?", "type": "unanswerable"}
+]

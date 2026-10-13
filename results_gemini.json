@@ -1,0 +1,50 @@
+[
+  {
+    "q": "What is a Hidden Markov Model?",
+    "type": "answer",
+    "good": true,
+    "cited": true,
+    "secs": 86,
+    "answer": "Hidden Markov Models are used for sequence data where the system has hidden states and observable outputs [1]. These models are widely used in applications like speech recognition and natural language processing [1]."
+  },
+  {
+    "q": "What is an LSTM?",
+    "type": "unanswerable",
+    "good": true,
+    "cited": false,
+    "secs": 76,
+    "answer": "I couldn't find this in your documents."
+  },
+  {
+    "q": "What does a Gaussian Mixture Model do?",
+    "type": "answer",
+    "good": true,
+    "cited": true,
+    "secs": 75,
+    "answer": "A Gaussian Mixture Model assumes that data is generated from a mixture of multiple Gaussian distributions [1]. It uses the Expectation-Maximization algorithm and performs soft clustering, where each data point can belong to multiple clusters with different probabilities [2]."
+  },
+  {
+    "q": "What is the capital of France?",
+    "type": "unanswerable",
+    "good": true,
+    "cited": false,
+    "secs": 0,
+    "answer": "I couldn't find this in your documents."
+  },
+  {
+    "q": "What kinds of autoencoders are there?",
+    "type": "answer",
+    "good": true,
+    "cited": true,
+    "secs": 57,
+    "answer": "The types of autoencoders include undercomplete autoencoders for compression, sparse autoencoders that activate only a few neurons, contractive autoencoders that learn robust features, denoising autoencoders to remove noise, and VAE used for generative modeling [1]."
+  },
+  {
+    "q": "What is a transformer?",
+    "type": "unanswerable",
+    "good": true,
+    "cited": false,
+    "secs": 0,
+    "answer": "I couldn't find this in your documents."
+  }
+]
